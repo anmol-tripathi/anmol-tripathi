@@ -6,7 +6,7 @@
 ## 💻 Languages and Technologies
 - Programming Languages - Python, C++, C
 - Operating Systems - Windows, Linux
-- Database - Transact SQL (SSMS)
+- Database - SQL 
 - Others - Git, GitHub, Jupyter
 
 ## Find me at:
